@@ -1,3 +1,11 @@
+## Required Libraries
+
+```txt
+tensorflow
+keras
+numpy
+matplotlib
+
 #### 🧾 Add `pattern_sense.py` Sample in README.md
 
 ```markdown
